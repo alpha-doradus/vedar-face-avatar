@@ -4,7 +4,7 @@ Face tracking y gestos de avatar.
 ## Instrucciones de uso
 1. Ejecutar el script:
 ```
-python3 avatarDetection.py
+python3 avatarsDetection.py
 ```
 2. La cámara empezará a detectar la cara, sonrisa, palma de la mano y puño
 3. Para cada gesto el avatar cambiará de estado:
