@@ -16,3 +16,9 @@ python3 avatarsDetection.py
 ## Tech stack
 - Python
 - OpenCV
+
+## Demostración
+
+<img src="Avatar GIFs/Smile.gif" width=40%><img src="Avatar GIFs/Fist.gif" width=40%>
+
+<img src="Avatar GIFs/Palm.gif" width=40%><img src="Avatar GIFs/Sleep.gif" width=40%>
